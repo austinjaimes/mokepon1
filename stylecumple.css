@@ -1,0 +1,46 @@
+body {
+    background-image: url(https://2.bp.blogspot.com/-8kskKSZuC_s/UvbRyjYfF-I/AAAAAAACN3E/5j4v4XHK-Ko/s1600/Futbol-Imprimibles-balon-001.jpg)
+}
+img {
+    
+    border-radius: 50px;
+    height: 500px;
+    align-items: center;
+    margin: 20px;
+    border: aqua;
+    
+}
+
+h1 {
+    font-size: 50px;
+    color: darkcyan;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkolivegreen;
+}
+
+h3 {
+    font-size: 110px;
+    color: crimson;
+    font-family: cursive;
+}
+
+#aaa {
+    
+    border: 10px;
+    border-radius: 50px;
+    height: 500px;
+    align-items: center;
+}
+
+#hola {
+    
+    text-align: center;
+    text-align: right;
+    padding-right: 550px;
+    font-size: 50px;
+}
